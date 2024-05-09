@@ -1,5 +1,5 @@
 # ProCipher
-Cipher and Decipher using numerous ciphering techniques, only through ProCipher!
+Cipher and Decipher using numerous ciphering techniques.
 
 Ciphering techniques available:
 *Affine Cipher
